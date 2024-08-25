@@ -1,8 +1,8 @@
-MANIFEST       ���̃t�@�C��
-README         �܂��ŏ��ɂ��ǂ݉�����
-NOTICE         �Ō��Ƌ����ɂ��Ă̍�����
-CHANGES        rev�̃��f���`�F���W�̗���
-rev.1          rev�̃}�j���A��
-revr.1         revr�̃}�j���A��
-rev.x          rev���s�t�@�C��
-revr           revr���s�t�@�C���ifish�X�N���v�g�j
+MANIFEST       このファイル
+README         まず最初にお読み下さい
+NOTICE         版権と許諾についての告示書
+CHANGES        revのモデルチェンジの履歴
+rev.1          revのマニュアル
+revr.1         revrのマニュアル
+rev.x          rev実行ファイル
+revr           revr実行ファイル（fishスクリプト）
